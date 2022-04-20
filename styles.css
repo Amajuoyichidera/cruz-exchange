@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Poppins:ital,wght@0,400;0,500;1,700&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(https://img.freepik.com/free-photo/textured-background-white-tone_53876-128610.jpg?w=2000);
+    background-size: cover;
+    font-weight: bold;
+}
+form {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 15px;
+}
+.phone {
+    height: 80px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+}
+.mail {
+    height: 80px;
+    padding-right: 100px;
+}
+.one {
+    display: flex;
+}
+.two {
+    display: flex;
+}
